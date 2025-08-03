@@ -83,4 +83,5 @@ This project requires the following Python libraries:
 - `matplotlib`
 
   ## 6. Model Performance
+![temp_min Plot](temp_min.png)
 
