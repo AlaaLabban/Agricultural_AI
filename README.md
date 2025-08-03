@@ -81,3 +81,6 @@ This project requires the following Python libraries:
 - `numpy`
 - `scikit-learn`
 - `matplotlib`
+
+  ## 6. Model Performance
+
