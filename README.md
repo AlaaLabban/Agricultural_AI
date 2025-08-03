@@ -84,4 +84,14 @@ This project requires the following Python libraries:
 
   ## 6. Model Performance
 ![temp_min Plot](temp_min.png)
+![temp_max Plot](temp_max.png)
+![evap Plot](evap.png)
+![radiation Plot](radiation.png)
+![soil_temp Plot](soil_temp.png)
+![vapour Plot](vapour.png)
+
+
+
+
+
 
